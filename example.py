@@ -1,5 +1,5 @@
 def summatory(a, b):
-	return(a - b)
+	return(a + b)
 
 print("Sum numbers")
 print("Insert first number")
